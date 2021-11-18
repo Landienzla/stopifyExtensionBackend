@@ -1,1 +1,1 @@
-# stopifyExtensionBackend
+Backend for stopify extension.
